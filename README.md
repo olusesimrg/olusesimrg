@@ -19,7 +19,47 @@
 <br/>
 
 <h2 align="center">Hi 👋 I'm Gbolahan Olusesi</h1>
-### Hi 👋 I'm Gbolahan Olusesi
+
+```js
+
+document.write("Hello World");
+
+var status = 
+{ 
+  learning : [React, Redux, Ux Design],
+  interests: [VueJs, Opensource, Gatsby, Solidity]
+}
+
+const skills = 
+{
+  languages: [Javascript, Css, html],
+  
+  frameworks: [Bootstrap, Tailwind, ReactJs],
+  
+  Design: [Figma, AdobeXD, Canva, Photoshop, Illustrator, Indesign ],
+  
+  platforms: [github, Netlify, Vercel],
+  
+  tools: [Gitbash, Github, Npm]
+}
+
+
+Developer dev = new Developer(Gbolahan Olusesi);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+
+```
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olusesimrg)](https://github.com/olusesimrg/github-readme-stats)-->
+
+<img alt="My Github stats" align="center" border-radius="40px" width="700px" height="200px" src="https://github-readme-stats.vercel.app/api?username=olusesimrg&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/olusesimrg"/>
+
+---
 
 Not just your Ordinary DEV!
 
