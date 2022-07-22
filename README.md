@@ -27,7 +27,7 @@ document.write("Hello World");
 var status = 
 { 
   learning : [React, Redux, Ux Design],
-  interests: [VueJs, Opensource, Gatsby, Solidity]
+  interests: [VueJs, Opensource, Gatsby, Python]
 }
 
 const skills = 
