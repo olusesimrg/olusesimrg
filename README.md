@@ -32,15 +32,15 @@ var status =
 
 const skills = 
 {
-  languages: [Javascript, Css, html],
+  languages: [Javascript, Css, Html],
   
   frameworks: [Bootstrap, Tailwind, ReactJs],
   
   Design: [Figma, AdobeXD, Canva, Photoshop, Illustrator, Indesign ],
   
-  platforms: [github, Netlify, Vercel],
+  platforms: [Github, Netlify, Vercel],
   
-  tools: [Gitbash, Github, Npm]
+  tools: [Gitbash, Terminal, Github, Npm]
 }
 
 
