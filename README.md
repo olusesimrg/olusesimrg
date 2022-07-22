@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi 👋 I'm Gbolahan Olusesi
 
-Here are some ideas to get you started:
+Not just your Ordinary DEV!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... React.js
-- 👯 I’m looking to collaborate on ... React.js
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... anything
+- 🔭 I’m currently Learning alot of things 
+- 🌱 Working hard to Improve my Emotional Intelligence and Communication Skills
+- 👯 Looking to Collaborate with other devs and contribute more to OpenSource
+- 🤔 Is there a Gig? Or an Urgent deal? Hit me up through my mail, twitter or linkedin
+- 💬 Ask me about anything
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/olusesimrg/)
 
