@@ -57,11 +57,11 @@ while(dev.isCoding() && dev.isStuck())
 ```
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olusesimrg)](https://github.com/olusesimrg/github-readme-stats)-->
 
-<img alt="My Github stats" align="center" border-radius="40px" width="700px" height="200px" src="https://github-readme-stats.vercel.app/api?username=olusesimrg&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/olusesimrg"/>
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=olusesimrg&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/olusesimrg"/>
 
 ---
 
-Not just your Ordinary DEV!
+### Not just your Ordinary DEV!
 
 - 🔭 I’m currently Learning alot of things 
 - 🌱 Working hard to Improve my Emotional Intelligence and Communication Skills
@@ -70,4 +70,10 @@ Not just your Ordinary DEV!
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/olusesimrg/)
+
+---
+
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=olusesimrg&layout=compact" alt="Olusesi Gbolahan" />
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
