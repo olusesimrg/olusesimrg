@@ -40,7 +40,7 @@ const skills =
   
   platforms: [Github, Netlify, Vercel],
   
-  tools: [Gitbash, Terminal, Github, Npm]
+  tools: [Gitbash, Shell, Terminal, Github, Npm]
 }
 
 
@@ -65,7 +65,7 @@ while(dev.isCoding() && dev.isStuck())
 
 - 🔭 I’m currently Learning alot of things 
 - 🌱 Working hard to Improve my Emotional Intelligence and Communication Skills
-- 👯 Looking to Collaborate with other devs and contribute more to OpenSource
+- 👯 Looking to Collaborate with other devs and contribute to OpenSource
 - 🤔 Is there a Gig? Or an Urgent deal? Hit me up through my mail, twitter or linkedin
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
